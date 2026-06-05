@@ -135,8 +135,14 @@ async function loadNotes(){
   catch(e){ console.warn('notes load failed',e); }
 }
 
+async function fetchDeck(){
+  for(const u of [DECK,'index.html']){
+    try{ const r=await fetch(u); if(r.ok) return await r.text(); }catch(e){}
+  }
+  throw new Error('deck file not found (tried '+DECK+' and index.html)');
+}
 async function init(){
-  const html=await (await fetch(DECK)).text();
+  const html=await fetchDeck();
   // inject all <style> blocks
   const styles=[...html.matchAll(/<style[^>]*>([\s\S]*?)<\/style>/g)].map(m=>m[1]).join('\n');
   const st=document.createElement('style'); st.textContent=styles; document.head.appendChild(st);
