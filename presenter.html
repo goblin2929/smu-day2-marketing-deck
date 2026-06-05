@@ -156,6 +156,12 @@ async function init(){
   // inject all <style> blocks
   const styles=[...html.matchAll(/<style[^>]*>([\s\S]*?)<\/style>/g)].map(m=>m[1]).join('\n');
   const st=document.createElement('style'); st.textContent=styles; document.head.appendChild(st);
+  // the deck's own body{display:flex;align-items:center} leaks in via the injected styles and
+  // collapses the presenter to the 1280px slide width — re-assert the presenter layout so the
+  // slide can use the full screen (esp. the audience window). Appended last → wins.
+  const fix=document.createElement('style');
+  fix.textContent='html,body{display:block!important;flex-direction:row!important;align-items:stretch!important;justify-content:flex-start!important;margin:0!important;padding:0!important;gap:0!important;height:100%!important;overflow:hidden!important;background:#15130f!important}#app{width:100%!important}';
+  document.head.appendChild(fix);
   // also pull font link
   const fl=html.match(/<link href="https:\/\/fonts[^"]+"/); if(fl){const l=document.createElement('link');l.rel='stylesheet';l.href=fl[0].match(/href="([^"]+)"/)[1];document.head.appendChild(l);}
   const doc=new DOMParser().parseFromString(html,'text/html');
