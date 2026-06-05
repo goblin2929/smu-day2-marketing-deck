@@ -13,8 +13,6 @@
   #stagewrap{flex:1;display:flex;align-items:center;justify-content:center;background:#0d0b09;overflow:hidden;position:relative}
   #stage{transform-origin:center center}
   #stage .slide,#stage .dkA-wrap{box-shadow:0 18px 50px -20px rgba(0,0,0,.8) !important}
-  /* black-text fix: presenter body is dark, so force the deck paper-ink default on cloned main slides. dkA sets its own colors, so it is excluded. */
-  #stage .dk1,#stage .dk2{color:var(--ink,#17140f)}
   /* right: notes */
   #right{flex:1;display:flex;flex-direction:column;min-width:0;background:#1c1914}
   #notehead{padding:16px 22px 10px;border-bottom:1px solid #332e26}
@@ -38,6 +36,10 @@
   #thumb{font-family:'Spline Sans Mono';font-size:12px;color:#8a8273;max-width:280px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
   #loading{position:fixed;inset:0;display:flex;align-items:center;justify-content:center;font-size:20px;color:#b8b0a0;background:#15130f;z-index:50}
   kbd{background:#2a251d;border:1px solid #4a4334;border-radius:4px;padding:1px 6px;font-size:12px;font-family:'Spline Sans Mono'}
+  /* audience mode (?audience=1): clean full-screen slide for the projector, no notes/bar */
+  body.audience #right{display:none!important}
+  body.audience #left{flex:1 1 100%!important;border:none!important}
+  body.audience #stagewrap{background:#000}
 </style>
 </head>
 <body>
@@ -56,6 +58,7 @@
       <span id="thumb"></span>
       <span class="sp"></span>
       <button id="reload" title="Re-fetch the .md notes">↻ Reload notes</button>
+      <button id="aud" title="Open a clean full-screen slide window for the projector — it follows this presenter">⧉ Audience screen</button>
       <a href="smu-day2-full-deck.html" target="_blank">Open deck for projecting ↗</a>
     </div>
   </div>
@@ -64,6 +67,10 @@
 const DECK='smu-day2-full-deck.html';
 const NOTES='smu-day2-course-script.md';
 let slides=[], slideNum=[], slideTitle=[], notesArr=[], idx=0;
+// ── presenter↔projector sync ──
+const AUDIENCE=new URLSearchParams(location.search).has('audience');
+const CH=('BroadcastChannel' in window)?new BroadcastChannel('smu-present-day2'):null;
+if(AUDIENCE) document.body.classList.add('audience');
 
 function mdInline(t){
   t=t.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
@@ -112,7 +119,7 @@ function align(blocks){
   return slides.map((_,i)=> blocks[i] || null);
 }
 
-function show(i){
+function show(i,_bcast){
   idx=Math.max(0,Math.min(slides.length-1,i));
   const st=document.getElementById('stage');
   st.innerHTML=''; st.appendChild(slides[idx].cloneNode(true));
@@ -130,6 +137,7 @@ function show(i){
   document.getElementById('notes').scrollTop=0;
   document.getElementById('counter').textContent=(idx+1)+' / '+slides.length;
   document.getElementById('thumb').textContent=slideTitle[idx]||'';
+  if(CH && _bcast!==false && !AUDIENCE) CH.postMessage({idx:idx});
 }
 
 async function loadNotes(){
@@ -148,14 +156,6 @@ async function init(){
   // inject all <style> blocks
   const styles=[...html.matchAll(/<style[^>]*>([\s\S]*?)<\/style>/g)].map(m=>m[1]).join('\n');
   const st=document.createElement('style'); st.textContent=styles; document.head.appendChild(st);
-  // RESHELL: the deck's global html/body rules (display:flex, padding:40px 20px, etc.) leak onto the
-  // presenter shell and make #app overflow the viewport (clips slide-left + notes-right). Re-assert the
-  // shell AFTER the deck CSS so it wins the cascade. Only touches the shell, never the .dk* slide styles.
-  const fix=document.createElement('style');
-  fix.textContent="html{height:100%!important}"+
-    "body{display:block!important;margin:0!important;padding:0!important;width:100%!important;height:100%!important;overflow:hidden!important;background:#15130f!important;color:#eee!important;font-family:-apple-system,'Segoe UI',Helvetica,sans-serif!important}"+
-    "#app{width:100vw!important;height:100vh!important;max-width:100vw!important;margin:0!important;padding:0!important;overflow:hidden!important}";
-  document.head.appendChild(fix);
   // also pull font link
   const fl=html.match(/<link href="https:\/\/fonts[^"]+"/); if(fl){const l=document.createElement('link');l.rel='stylesheet';l.href=fl[0].match(/href="([^"]+)"/)[1];document.head.appendChild(l);}
   const doc=new DOMParser().parseFromString(html,'text/html');
@@ -181,7 +181,13 @@ async function init(){
 document.getElementById('prev').onclick=()=>show(idx-1);
 document.getElementById('next').onclick=()=>show(idx+1);
 document.getElementById('reload').onclick=loadNotes;
+document.getElementById('aud').onclick=()=>{ window.open(location.pathname+'?audience=1','smu-audience','width=1280,height=740'); if(CH) setTimeout(()=>CH.postMessage({idx:idx}),1200); };
+if(CH){ CH.onmessage=e=>{ const d=e.data||{};
+  if(d.req){ if(!AUDIENCE && slides.length) CH.postMessage({idx:idx}); return; }
+  if(d.idx!=null && d.idx!==idx){ show(d.idx,false); } };
+  if(AUDIENCE){ let n=0,t=setInterval(()=>{ CH.postMessage({req:1}); if(++n>6)clearInterval(t); },500); } }
 window.addEventListener('keydown',e=>{
+  if(AUDIENCE) return;
   if(e.key==='ArrowRight'||e.key==='PageDown'||e.key===' ')show(idx+1);
   if(e.key==='ArrowLeft'||e.key==='PageUp')show(idx-1);
 });
