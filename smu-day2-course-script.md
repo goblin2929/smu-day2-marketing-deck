@@ -18,7 +18,7 @@
 
 **4. Click the live elements.** The video cards, the tool logos, and the AI-Overview screenshot are all clickable. Open one or two of them live so the room sees the real thing, not a description of it.
 
-**5. Pacing (full day):** Part 1 + Session 1 (~75 min) → break → Session 2 video (~75 min) → lunch → Session 3 hands-on (~90 min) → Channels/Paid (~30 min) → Session 5 agentic (~90 min) → break → Session 4 ethics (~30 min) → Q&A + quiz + close. For a shorter run, trim the prompt-anatomy depth in Session 2 and the building-block slides in Session 5; keep the hooks and the worked examples.
+**5. Pacing (full day, ~9:30 start):** Module 2 intro + 2.3 AEO/GEO (~75 min) → **tea break ~10:45** → 2.4 Paid (~30 min) → 2.5 Video incl. Exercise 1 (~75 min) → **lunch ~12:45** → 2.5 Hands-on (~90 min) → Module 3 Agentic (~90 min, with a 10-min breather inside) → **tea break ~4:45** → Module 4 ethics (~30 min) → Q&A + quiz + close (ends ~5:30–5:50). For a shorter run, trim the prompt-anatomy depth in Video and the building-block slides in Agentic; keep the hooks and the worked examples.
 
 ---
 
@@ -28,7 +28,7 @@
 **Say:** "Day 2. Yesterday was the fundamentals — who you're for, what you stand for, how people find and choose you. Today is how AI actually changes the *doing* of all that: search, video, building your own AI workers, and the ethics that keep you out of trouble. By the end you'll have built something with your own hands and you'll take home two free tools you can run on your own business tonight."
 
 ### [01] What we cover today
-**Say:** Don't read the list — frame it. "Five blocks today, and they fall into three jobs. The first two — AI-native marketing with the new search, and AI video — are about *understanding* what changed. The third and the fifth — the hands-on workshop and building your own agentic workflow — are where you *build*. And the fourth, trends and ethics, is the one that keeps you from getting burned. Understand, build, don't get burned. That's the day."
+**Say:** Don't read the list — frame it. "Five blocks today, and they fall into three jobs. The first two — AI-native marketing with the new search, and AI video — are about *understanding* what changed. The hands-on workshop and building your own agentic workflow are where you *build*. And trends and ethics is the one that keeps you from getting burned. Understand, build, don't get burned. That's the day."
 
 ---
 
@@ -105,7 +105,7 @@
 **Say (you-do):** "Before the break, you're going to run *your own* business through two free tools we built. The first, AI Prompt Discovery, shows you the actual questions people ask AI about your category. The second, the Free AEO Audit, hands you a report on your own site. Both free, no catch — you'll see where AI already mentions you, and just as useful, where it doesn't yet." Give them the URLs and get two or three to try it live and read out what they got.
 
 ### DIVIDER — Tea Break
-**Say:** "Fifteen minutes. When we come back, we make video."
+**Say:** "Fifteen minutes. When we come back: the paid side — where your marketing actually runs, and the four questions to answer before you spend a dollar on ads."
 
 ---
 
@@ -115,10 +115,10 @@
 **Say:** "Organic gets you discovered; paid gets you distributed. Two jobs, don't confuse them — and four questions to answer before you spend a dollar."
 
 ### [21] Marketing channels overview
-**Say:** "So where does all this AI-made content actually go to work? Everywhere — email, organic posts in text and image, organic video, paid ads, and the blog for SEO and GEO. That's the quiet superpower: one idea, made once, can now show up across every channel almost instantly."
+**Say:** "We spent the morning on getting *found* — that's the SEO-and-GEO column on this map. Now widen the lens, because that's only one channel. Here's where your marketing actually runs: owned email, organic posts in text and image, organic video, paid ads, and the blog. The quiet superpower of AI is that one idea, made once, can show up across every one of these almost instantly. This block we take the paid column — then the next session is the content that feeds all of them: video."
 
 ### [22] Paid marketing
-**Say:** "Two different jobs, don't confuse them. Organic video is for *discovery* — top of funnel, building trust on TikTok, Reels, Shorts; hook them in the first two or three seconds, and authenticity beats polish every time. Paid video is for *distribution* — you take what's already working and pour fuel on it, retarget, test angles cheaply. What AI changes here is the *speed* of iteration. What it doesn't change is the boring stuff that still wins: good targeting, budget discipline, a clear message."
+**Say:** "Here's the split that matters. Organic is for *discovery* — top of funnel, building trust on TikTok, Reels, Shorts; hook them in the first two or three seconds, and authenticity beats polish every time. Paid is for *distribution* — you take what's already working and pour fuel on it, retarget, test angles cheaply. What AI changes here is the *speed* of iteration. What it doesn't change is the boring stuff that still wins: good targeting, budget discipline, a clear message."
 
 ### [23] Before you run ads: four questions
 **Say (ask first):** "Before anyone spends a dollar, you have to answer four questions — and I'll ask the room. What's the goal? Who's the audience, and are they cold, warm, or hot? What message are we actually testing? And what does success look like? That last one is the killer: if you can't define success up front, you literally cannot measure it, and you're just burning money with a nice dashboard."
@@ -131,7 +131,7 @@
 ## 2.5 — AI VIDEO & CONTENT CREATION
 
 ### DIVIDER — Section 2.5 · AI Video & Content Creation
-**Say:** "Two things this session. Where short-form video is heading — and the skill that actually matters, which is how to *brief* an AI model so you get the video you pictured instead of the mush it defaults to."
+**Say:** "You've got the channels and the paid mechanics — now the content that fills them. The format eating all the others is short-form video, so that's where we go. Two things this session: where video is heading, and the skill that actually matters — how to *brief* an AI model so you get the video you pictured instead of the mush it defaults to."
 
 ### [25] Why video matters now
 **Say:** "The appetite for short-form keeps climbing, and nowhere more than here in Southeast Asia. It out-engages a static post every time, and for a small business with a thin ad budget it's the cheapest way there is to show the product working and tell your story."
