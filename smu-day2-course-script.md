@@ -147,8 +147,11 @@
 ### The content grid — filled in (insurance)
 **Say:** "Here it is filled for an insurance business. Industry side: claims, sales, savings, car, life, health, retirement, home. Customer side: travel, pets, designer bags, marriage, cars, the gym, kids, first home. Now circle one from each and cross them — five ideas on screen. Sales times pet: 'what my dog taught me about life insurance.' Savings times a bag: 'same money, an LV bag now or your savings in ten years.' Land the closing line: the product alone is boring — reach and engagement come from *connecting* with the customer through content relevant to *their* life."
 
-### Library 3 / 7 — Script
-**Say:** "Shelf three — what you actually say, point by point. Proven angles: the emotional one, your industry insight, a quote or stat that earns trust, the story that sells without feeling like an ad, and — don't skip it — the CTA, the ask at the end. The six-beat spine on the example is your default template."
+### [33] How to generate killer scripts
+**Say:** "Before any visuals, the words. The trick isn't to write from a blank page — it's to find a video that's already winning in your category, transcribe it, take it apart, and have ChatGPT adapt it to you. A good short script runs on six beats and each does exactly one job: you open on a hook to stop the scroll, drop into a relatable moment so they see themselves, hit a shift where something turns, slide the product in softly, pay it off casually, and end on a light call to action. Read the GRWM example one beat at a time so they hear the rhythm."
+
+### [35] AI script example
+**Say:** "Here's the full GRWM script on screen, and you can see the structure doing its work — hook, relatable, shift, soft product, payoff, all in order. This is exactly the kind of thing you'd hand to an avatar tool or a voice model to perform."
 
 ### Library 4 / 7 — Storyboard
 **Say:** "Shelf four — how you stage and sequence the story, the angle you tell it from. Story-selling, where a narrative carries the pitch instead of an ad; process breakdown, the 'how it's made'; POV, filmed from the viewer's or subject's eyes; and sharing or tutorial, where you teach something useful. Pick the angle, then plan the beats before you film — hook shot, context, the reveal, the CTA frame."
@@ -161,12 +164,6 @@
 
 ### Library 7 / 7 — Sound
 **Say:** "Shelf seven — the audio layer, and it carries half the emotion. Background music for mood, sound effects for punch, trending audio the algorithm is currently boosting, and a clean voiceover track. Riding a trending sound *early*, while it's climbing, ties straight back to your Trends habit from the grid."
-
-### [33] How to generate killer scripts
-**Say:** "Before any visuals, the words. The trick isn't to write from a blank page — it's to find a video that's already winning in your category, transcribe it, take it apart, and have ChatGPT adapt it to you. A good short script runs on six beats and each does exactly one job: you open on a hook to stop the scroll, drop into a relatable moment so they see themselves, hit a shift where something turns, slide the product in softly, pay it off casually, and end on a light call to action. Read the GRWM example one beat at a time so they hear the rhythm."
-
-### [35] AI script example
-**Say:** "Here's the full GRWM script on screen, and you can see the structure doing its work — hook, relatable, shift, soft product, payoff, all in order. This is exactly the kind of thing you'd hand to an avatar tool or a voice model to perform."
 
 ### [36] How to generate a good video prompt
 **Say:** "Now the visual brief, and this is the framework to actually remember today — seven layers. You're specifying the object, the physics, the motion, the camera, the environment, the style, and the negatives — the things you *don't* want. You can fill all seven by hand for full control, or take the shortcut: drop the seven headings into ChatGPT and let it write the finished prompt for you. Either you direct each layer, or the model guesses — and it guesses generic."
