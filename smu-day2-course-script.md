@@ -74,15 +74,6 @@
 ### [11] SEO 101: Structure
 **Say:** "Brilliant content still won't rank if the engine can't *find, understand and trust* it — so structure is the plumbing underneath. Three things hold it up. Can they reach the page at all — that's crawlability. Is it fast, mobile-friendly, secure — that's the technical hygiene. And do the links line up — your internal links tell Google what matters on your own site, external links are other people vouching for you. Plumbing isn't glamorous, but a blocked pipe sinks the whole thing."
 
-### [12] Your website traffic likely dropped this year
-**Say (hook — ask first):** "Gut-check, hands up — whose website traffic is *down* this year? (wait for the hands) Look around, you're not alone. Here's the culprit: AI Overviews are quietly absorbing the click that used to land on your site. People get their answer up top and never come down." Sets up the AEO case.
-
-### [13] AEO / GEO evolution
-**Say:** "So success has to be redefined. It used to be 'we're number one on Google.' In this new world, winning is being the source the AI *reaches for* when it builds the answer. The old goals were rank, clicks, traffic. The new goals are: get cited, get summarised, shape the answer *before* anyone clicks anything, and be a source the model trusts."
-
-### [14] The shift: mindset → operation → measurement
-**Say:** "It's really one shift in how you think. The SEO mindset was about winning the *ranking* — chase keywords, pump out pages, count the traffic. The GEO mindset is about winning the *citation* — be clear, be the densest, most useful explanation of a concept, and get yourself included in the answer. You're no longer writing for a rank; you're writing to be quoted."
-
 ### [15] A real Google AI Overview
 **Say:** "This is the whole thing in one screenshot — a live AI Overview for 'best SME AI implementation consultant in Singapore'. Watch what happens: the answer is assembled and the sources are cited *before* anyone clicks a result, and a handful of named businesses soak up all the visibility. So the only question that matters for you is — are you one of the names in that box, or not?"
 
@@ -123,15 +114,6 @@
 ### [29] Real or fake?
 **Say (interactive — ask first):** "Two clips coming up. Don't shout — just decide which one is the AI. (play both, take a show of hands, then reveal: one's real, one is fully generated.) If you honestly couldn't tell, *that's* the headline of this whole session — the bar for 'good enough' video has collapsed, and that cuts both ways."
 
-### [30] Image → Video
-**Say:** "Three ways to generate, one per slide, and this is the first. Image-to-video: you hand it a reference picture and the AI adds the motion — look at the Kling before-and-after, same woman, now walking with a dog. The tools here are Kling AI and Higgsfield. Reach for it when consistency matters — products, characters, fashion, anything that has to stay *itself* across the shot. The flow is simple: upload the image, give it a short motion prompt, generate a few takes, keep the best one."
-
-### [31] Text → Video
-**Say:** "Second way — text-to-video. No reference at all, pure prompt; the model invents the whole frame. Tools are Sora, Runway, Kling. This is your ideation gear, best for concepts you're still dreaming up. You write the full seven-layer prompt, generate, and iterate. It's the most flexible of the three and the hardest to keep on a leash." (Watch-example link.)
-
-### [32] Video → Video
-**Say:** "Third way — video-to-video. You feed it footage you already shot and it restyles or transforms it. Runway's the tool. Best when you want a fresh look or a variation on something real, and the catch is that you're always boxed in by the original clip." (Watch-example link.)
-
 ### [34] Writing a scroll-stopping hook
 **Say:** "The first two seconds decide whether anyone sees the rest. A strong hook does three things — it's specific, it creates a little tension, and it talks to *one* person, not a crowd. There are about six flavours you can pull from: open with a question, make a contrarian claim, confess something, take a point of view, drop a shocking stat, or open a curiosity gap. The test is simple — a weak hook *describes*; a strong hook makes someone *react*."
 
@@ -146,6 +128,15 @@
 
 ### The content grid — filled in (insurance)
 **Say:** "Here it is filled for an insurance business. Industry side: claims, sales, savings, car, life, health, retirement, home. Customer side: travel, pets, designer bags, marriage, cars, the gym, kids, first home. Now circle one from each and cross them — five ideas on screen. Sales times pet: 'what my dog taught me about life insurance.' Savings times a bag: 'same money, an LV bag now or your savings in ten years.' Land the closing line: the product alone is boring — reach and engagement come from *connecting* with the customer through content relevant to *their* life."
+
+### [30] Image → Video
+**Say:** "Three ways to generate, one per slide, and this is the first. Image-to-video: you hand it a reference picture and the AI adds the motion — look at the Kling before-and-after, same woman, now walking with a dog. The tools here are Kling AI and Higgsfield. Reach for it when consistency matters — products, characters, fashion, anything that has to stay *itself* across the shot. The flow is simple: upload the image, give it a short motion prompt, generate a few takes, keep the best one."
+
+### [31] Text → Video
+**Say:** "Second way — text-to-video. No reference at all, pure prompt; the model invents the whole frame. Tools are Sora, Runway, Kling. This is your ideation gear, best for concepts you're still dreaming up. You write the full seven-layer prompt, generate, and iterate. It's the most flexible of the three and the hardest to keep on a leash." (Watch-example link.)
+
+### [32] Video → Video
+**Say:** "Third way — video-to-video. You feed it footage you already shot and it restyles or transforms it. Runway's the tool. Best when you want a fresh look or a variation on something real, and the catch is that you're always boxed in by the original clip." (Watch-example link.)
 
 ### [33] How to generate killer scripts
 **Say:** "Before any visuals, the words. The trick isn't to write from a blank page — it's to find a video that's already winning in your category, transcribe it, take it apart, and have ChatGPT adapt it to you. A good short script runs on six beats and each does exactly one job: you open on a hook to stop the scroll, drop into a relatable moment so they see themselves, hit a shift where something turns, slide the product in softly, pay it off casually, and end on a light call to action. Read the GRWM example one beat at a time so they hear the rhythm."
