@@ -111,14 +111,11 @@
 ### Before vs after: making a video
 **Say:** "Walk the left column — this is how a video got made for twenty years: references, moodboard, storyboard, animate, shoot, edit. Many people, many weeks. Right column: now it's one workflow you run again and again — you bring the brief and the judgment, and the workflow pulls your references, writes, generates, assembles. The takeaway is the real point: the job moves from *doing the steps* to *directing the workflow* — your taste is the work now. The Claude Code / MCP line at the bottom is for the curious; don't dwell on it."
 
-### [29] Real or fake?
-**Say (interactive — ask first):** "Two clips coming up. Don't shout — just decide which one is the AI. (play both, take a show of hands, then reveal: one's real, one is fully generated.) If you honestly couldn't tell, *that's* the headline of this whole session — the bar for 'good enough' video has collapsed, and that cuts both ways."
-
-### [34] Writing a scroll-stopping hook
-**Say:** "The first two seconds decide whether anyone sees the rest. A strong hook does three things — it's specific, it creates a little tension, and it talks to *one* person, not a crowd. There are about six flavours you can pull from: open with a question, make a contrarian claim, confess something, take a point of view, drop a shocking stat, or open a curiosity gap. The test is simple — a weak hook *describes*; a strong hook makes someone *react*."
-
 ### How to stand out from the 99% — build your library
 **Say:** "Open with the hook: everyone in this room now has the same AI tools, so 99% of AI content looks identical. So how do you stand out? The answer's on screen — build an inspiration library, a swipe file only *you* have built. The grid gave you *what* to make; the library is the proven *how*. The loop: Capture what stops your scroll, Sort it onto the right shelf, Deconstruct why it worked, Reuse it when you create. It ties straight back to the workflow slide — your library is the *input* you feed the workflow, the reason your videos look like you and not slop. Four shelves coming up. Honest note: faster isn't the win — time saved doesn't equal customers won."
+
+### DEMO — product page to video
+**Say (live demo):** "Let's make it real. I'll take one live product page, write a single prompt that pulls hooks and structure from our library, and we watch it become a finished short. This is the agentic-workflow-plus-library idea from the last slide, in action."
 
 ### The 7 asset libraries (素材庫) — overview
 **Say:** "Here's the producer's full toolkit, left to right in the order you actually make a video — title, hook, script, structure, shot, edit, sound. The teaching point isn't any single shelf; it's that pros keep all seven *stocked*, so production stops being 'create from nothing' and becomes 'pull from shelves.' Each shelf feeds the next — a title earns the click, a hook earns the watch. We'll take each in turn; don't linger here, it's the map."
@@ -129,14 +126,8 @@
 ### The content grid — filled in (insurance)
 **Say:** "Here it is filled for an insurance business. Industry side: claims, sales, savings, car, life, health, retirement, home. Customer side: travel, pets, designer bags, marriage, cars, the gym, kids, first home. Now circle one from each and cross them — five ideas on screen. Sales times pet: 'what my dog taught me about life insurance.' Savings times a bag: 'same money, an LV bag now or your savings in ten years.' Land the closing line: the product alone is boring — reach and engagement come from *connecting* with the customer through content relevant to *their* life."
 
-### [30] Image → Video
-**Say:** "Three ways to generate, one per slide, and this is the first. Image-to-video: you hand it a reference picture and the AI adds the motion — look at the Kling before-and-after, same woman, now walking with a dog. The tools here are Kling AI and Higgsfield. Reach for it when consistency matters — products, characters, fashion, anything that has to stay *itself* across the shot. The flow is simple: upload the image, give it a short motion prompt, generate a few takes, keep the best one."
-
-### [31] Text → Video
-**Say:** "Second way — text-to-video. No reference at all, pure prompt; the model invents the whole frame. Tools are Sora, Runway, Kling. This is your ideation gear, best for concepts you're still dreaming up. You write the full seven-layer prompt, generate, and iterate. It's the most flexible of the three and the hardest to keep on a leash." (Watch-example link.)
-
-### [32] Video → Video
-**Say:** "Third way — video-to-video. You feed it footage you already shot and it restyles or transforms it. Runway's the tool. Best when you want a fresh look or a variation on something real, and the catch is that you're always boxed in by the original clip." (Watch-example link.)
+### [34] Writing a scroll-stopping hook
+**Say:** "The first two seconds decide whether anyone sees the rest. A strong hook does three things — it's specific, it creates a little tension, and it talks to *one* person, not a crowd. There are about six flavours you can pull from: open with a question, make a contrarian claim, confess something, take a point of view, drop a shocking stat, or open a curiosity gap. The test is simple — a weak hook *describes*; a strong hook makes someone *react*."
 
 ### [33] How to generate killer scripts
 **Say:** "Before any visuals, the words. The trick isn't to write from a blank page — it's to find a video that's already winning in your category, transcribe it, take it apart, and have ChatGPT adapt it to you. A good short script runs on six beats and each does exactly one job: you open on a hook to stop the scroll, drop into a relatable moment so they see themselves, hit a shift where something turns, slide the product in softly, pay it off casually, and end on a light call to action. Read the GRWM example one beat at a time so they hear the rhythm."
@@ -155,6 +146,18 @@
 
 ### Library 7 / 7 — Sound
 **Say:** "Shelf seven — the audio layer, and it carries half the emotion. Background music for mood, sound effects for punch, trending audio the algorithm is currently boosting, and a clean voiceover track. Riding a trending sound *early*, while it's climbing, ties straight back to your Trends habit from the grid."
+
+### [29] Real or fake?
+**Say (interactive — ask first):** "Two clips coming up. Don't shout — just decide which one is the AI. (play both, take a show of hands, then reveal: one's real, one is fully generated.) If you honestly couldn't tell, *that's* the headline of this whole session — the bar for 'good enough' video has collapsed, and that cuts both ways."
+
+### [30] Image → Video
+**Say:** "Three ways to generate, one per slide, and this is the first. Image-to-video: you hand it a reference picture and the AI adds the motion — look at the Kling before-and-after, same woman, now walking with a dog. The tools here are Kling AI and Higgsfield. Reach for it when consistency matters — products, characters, fashion, anything that has to stay *itself* across the shot. The flow is simple: upload the image, give it a short motion prompt, generate a few takes, keep the best one."
+
+### [31] Text → Video
+**Say:** "Second way — text-to-video. No reference at all, pure prompt; the model invents the whole frame. Tools are Sora, Runway, Kling. This is your ideation gear, best for concepts you're still dreaming up. You write the full seven-layer prompt, generate, and iterate. It's the most flexible of the three and the hardest to keep on a leash." (Watch-example link.)
+
+### [32] Video → Video
+**Say:** "Third way — video-to-video. You feed it footage you already shot and it restyles or transforms it. Runway's the tool. Best when you want a fresh look or a variation on something real, and the catch is that you're always boxed in by the original clip." (Watch-example link.)
 
 ### [36] How to generate a good video prompt
 **Say:** "Now the visual brief, and this is the framework to actually remember today — seven layers. You're specifying the object, the physics, the motion, the camera, the environment, the style, and the negatives — the things you *don't* want. You can fill all seven by hand for full control, or take the shortcut: drop the seven headings into ChatGPT and let it write the finished prompt for you. Either you direct each layer, or the model guesses — and it guesses generic."
