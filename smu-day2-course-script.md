@@ -97,16 +97,16 @@
 **Say:** "There are seven kinds of video a small business can actually use, and every one on this slide has a real example you can click — so let's watch one or two rather than list them. There's the straight product demo, the founder telling the brand's story, a customer testimonial in UGC style, a lifestyle piece, a promo, a how-to, and a short bit of narrative. Open one live and let them feel the format." Play one or two.
 
 ### Before vs after: making a video
-**Say:** "Walk the left column — this is how a video got made for twenty years: references, moodboard, storyboard, animate, shoot, edit. Many people, many weeks. Right column: now it's one workflow you run again and again — you bring the brief and the judgment, and the workflow pulls your references, writes, generates, assembles. The takeaway is the real point: the job moves from *doing the steps* to *directing the workflow* — your taste is the work now. The Claude Code / MCP line at the bottom is for the curious; don't dwell on it."
+**Say:** "Walk the left column. That's how a video got made for the last twenty years — references, moodboard, storyboard, animate, shoot, edit, across many people and many weeks. Now the right column: one workflow you run again and again. You bring the brief and the judgment; the workflow pulls your references, writes, generates, and assembles. So the part left for you is the part that always mattered — deciding what's worth making and whether it's good enough to put your name on. That's what this whole session is really about." *(The Claude Code / MCP line at the bottom is just for the curious — skip it.)*
 
 ### How to stand out from the 99% — build your library
-**Say:** "Open with the hook: everyone in this room now has the same AI tools, so 99% of AI content looks identical. So how do you stand out? The answer's on screen — build an inspiration library, a swipe file only *you* have built. The grid gave you *what* to make; the library is the proven *how*. The loop: Capture what stops your scroll, Sort it onto the right shelf, Deconstruct why it worked, Reuse it when you create. It ties straight back to the workflow slide — your library is the *input* you feed the workflow, the reason your videos look like you and not slop. Four shelves coming up. Honest note: faster isn't the win — time saved doesn't equal customers won."
+**Say (ask first):** "Everyone in this room now has the same AI tools, so most AI content looks identical. So what makes yours stand out? The answer's on screen — an inspiration library, a swipe file that only you have built. The grid gave you *what* to make; the library gives you the proven *how*. It runs on four moves: capture what stops your scroll, sort it onto the right shelf, work out why it worked, then reuse it when you create. This is the material you feed the workflow from the last slide — it's the reason your videos look like *you* and not generic AI. Four shelves coming up. And keep one thing honest with yourself: saving time isn't the win. Time saved doesn't win customers; good work does."
 
-### DEMO — product page to video
-**Say (live demo):** "Let's make it real. I'll take one live product page, write a single prompt that pulls hooks and structure from our library, and we watch it become a finished short. This is the agentic-workflow-plus-library idea from the last slide, in action."
+### DEMO — Tiket TikTok ad, live
+**Say (live demo):** "Here's a real one, live. I take an actual Tiket activity page and hand the AI a single line — 'create a TikTok ad for this page: a local-looking avatar, real photos, voiceover throughout, and walk me through the plan first.' Watch the two approaches on screen. A chat assistant *advises* — it drafts a script and a storyboard, but you still have to load the page, wire up the tools, and assemble it yourself. The agentic setup *executes* — it reads the page, writes the hook-to-CTA script, calls the avatar and voice tools, and assembles the finished short, then hands it back for you to approve. That's the whole jump: from an advisor that tells you what to do, to a system that does it — with your taste and your library as the input."
 
 ### The 7 asset libraries (素材庫) — overview
-**Say:** "Here's the producer's full toolkit, left to right in the order you actually make a video — title, hook, script, structure, shot, edit, sound. The teaching point isn't any single shelf; it's that pros keep all seven *stocked*, so production stops being 'create from nothing' and becomes 'pull from shelves.' Each shelf feeds the next — a title earns the click, a hook earns the watch. We'll take each in turn; don't linger here, it's the map."
+**Say:** "Here's the producer's full toolkit, left to right in the order you actually make a video — title, hook, script, structure, shot, edit, sound. What matters is that professionals keep all seven shelves stocked, so when it's time to produce they're pulling from ready material instead of starting cold. And each shelf feeds the next: a title earns the click, a hook earns the watch. This slide is just the map — we'll take the shelves one at a time."
 
 ### The content grid (九宮格) — your two grids
 **Say (interactive):** "Best cure for 'I don't know what to post.' Two grids on screen, both blank. Left is your business — your industry in the centre, eight topics around it. Right is your customer — what they actually care about. The point: you don't start from a blank page, you start from a blank *grid*. Ask the room to shout their industry and a couple of customer interests; we'll fill the insurance version on the next slide."
@@ -118,25 +118,31 @@
 **Say:** "The first two seconds decide whether anyone sees the rest. A strong hook does three things — it's specific, it creates a little tension, and it talks to *one* person, not a crowd. There are about six flavours you can pull from: open with a question, make a contrarian claim, confess something, take a point of view, drop a shocking stat, or open a curiosity gap. The test is simple — a weak hook *describes*; a strong hook makes someone *react*."
 
 ### [33] How to generate killer scripts
-**Say:** "Before any visuals, the words. The trick isn't to write from a blank page — it's to find a video that's already winning in your category, transcribe it, take it apart, and have ChatGPT adapt it to you. A good short script runs on six beats and each does exactly one job: you open on a hook to stop the scroll, drop into a relatable moment so they see themselves, hit a shift where something turns, slide the product in softly, pay it off casually, and end on a light call to action. Read the GRWM example one beat at a time so they hear the rhythm."
+**Say:** "Before any visuals, the words. Don't write from a blank page — find a video that's already winning in your category, transcribe it, pull it apart, and have ChatGPT adapt it to you. A good short script runs on six beats and each does exactly one job: you open on a hook to stop the scroll, drop into a relatable moment so they see themselves, hit a shift where something turns, slide the product in softly, pay it off casually, and end on a light call to action. Read the GRWM example one beat at a time so they hear the rhythm."
 
 ### [35] AI script example
 **Say:** "Here's the full GRWM script on screen, and you can see the structure doing its work — hook, relatable, shift, soft product, payoff, all in order. This is exactly the kind of thing you'd hand to an avatar tool or a voice model to perform."
 
 ### Library 4 / 7 — Storyboard
-**Say:** "Shelf four — how you stage and sequence the story, the angle you tell it from. Story-selling, where a narrative carries the pitch instead of an ad; process breakdown, the 'how it's made'; POV, filmed from the viewer's or subject's eyes; and sharing or tutorial, where you teach something useful. Pick the angle, then plan the beats before you film — hook shot, context, the reveal, the CTA frame."
+**Say:** "Storyboard, shelf four — how you stage and sequence the story, and the angle you tell it from. Story-selling, where a narrative carries the pitch instead of an ad; process breakdown, the 'how it's made'; POV, filmed from the viewer's or subject's eyes; and sharing or tutorial, where you teach something useful. Pick the angle, then plan the beats before you film — hook shot, context, the reveal, the CTA frame."
 
 ### Library 5 / 7 — Shot & Coverage
-**Say:** "Shelf five — how you point the camera. Three core angles plus screen capture: to-camera, talking straight to the lens; observational, fly-on-the-wall from outside; B-roll, the cutaway footage of hands, product, scenery; and screen recordings. The everyday combo is a to-camera hook cut with B-roll of the product."
+**Say:** "Shot and coverage, shelf five — how you point the camera. Three core angles plus screen capture: to-camera, talking straight to the lens; observational, fly-on-the-wall from outside; B-roll, the cutaway footage of hands, product, scenery; and screen recordings. The everyday combo is a to-camera hook cut with B-roll of the product."
 
 ### Library 6 / 7 — Edit
-**Say:** "Shelf six — the polish that makes raw footage look professional. Your click frame (thumbnail), captions — non-negotiable, most people watch on mute — typography, lower-thirds for names and titles, and pacing, the cut rhythm. Same footage, edited tight versus loose, is the difference between amateur and pro."
+**Say:** "Editing, shelf six — the polish that makes raw footage look professional. Your click frame, which is the thumbnail; captions, non-negotiable because most people watch on mute; typography and lower-thirds for names and titles; and pacing, the rhythm of your cuts. Take the same footage and cut it tight instead of loose, and it stops looking amateur."
 
 ### Library 7 / 7 — Sound
-**Say:** "Shelf seven — the audio layer, and it carries half the emotion. Background music for mood, sound effects for punch, trending audio the algorithm is currently boosting, and a clean voiceover track. Riding a trending sound *early*, while it's climbing, ties straight back to your Trends habit from the grid."
+**Say:** "Sound, shelf seven — the audio layer, and it carries half the emotion. Background music for mood, sound effects for punch, trending audio the algorithm is currently boosting, and a clean voiceover track. Riding a trending sound *early*, while it's climbing, ties straight back to your Trends habit from the grid."
 
 ### [29] Real or fake?
 **Say (interactive — ask first):** "Two clips coming up. Don't shout — just decide which one is the AI. (play both, take a show of hands, then reveal: one's real, one is fully generated.) If you honestly couldn't tell, *that's* the headline of this whole session — the bar for 'good enough' video has collapsed, and that cuts both ways."
+
+### DIVIDER — Video Production
+**Say:** "Now we actually make the thing. First the one skill that carries everything — how to brief the model so it gives you the video you pictured, not the mush it defaults to. Then the three ways to generate a clip."
+
+### [36] How to generate a good video prompt
+**Say:** "The visual brief — and this is the framework to remember today: seven layers. You name the object, the physics, the motion, the camera, the environment, the style, and the negatives, the things you *don't* want. Fill all seven by hand for full control, or take the shortcut and drop the seven headings into ChatGPT to let it write the finished prompt for you. Either you direct each layer, or the model guesses — and it guesses generic. Brief in hand, here are the three ways to actually generate the clip."
 
 ### [30] Image → Video
 **Say:** "Three ways to generate, one per slide, and this is the first. Image-to-video: you hand it a reference picture and the AI adds the motion — look at the Kling before-and-after, same woman, now walking with a dog. The tools here are Kling AI and Higgsfield. Reach for it when consistency matters — products, characters, fashion, anything that has to stay *itself* across the shot. The flow is simple: upload the image, give it a short motion prompt, generate a few takes, keep the best one."
@@ -146,12 +152,6 @@
 
 ### [32] Video → Video
 **Say:** "Third way — video-to-video. You feed it footage you already shot and it restyles or transforms it. Runway's the tool. Best when you want a fresh look or a variation on something real, and the catch is that you're always boxed in by the original clip." (Watch-example link.)
-
-### [36] How to generate a good video prompt
-**Say:** "Now the visual brief, and this is the framework to actually remember today — seven layers. You're specifying the object, the physics, the motion, the camera, the environment, the style, and the negatives — the things you *don't* want. You can fill all seven by hand for full control, or take the shortcut: drop the seven headings into ChatGPT and let it write the finished prompt for you. Either you direct each layer, or the model guesses — and it guesses generic."
-
-### [37] One full prompt — all seven layers
-**Say:** "This is what the assembled prompt looks like once the seven layers are stitched together — the delivery-robot example, all of it in one paragraph. Point out the tail end especially: the negative constraints, 'no flicker, no added text.' That's where most people forget to steer, and it's where the weird artefacts come from."
 
 ### Exercise 1 (10 min)
 **Facilitate (you-do):** "Pick one simple object or product — something on your desk. Write one or two sentences for each of the seven layers. Don't generate anything yet; we're just writing the brief. I'll grab two examples and read them out after."
@@ -184,15 +184,6 @@
 ### Activity 1 — Text/Image → Video
 **Facilitate (you-do):** "Pick an image or generate one, fill the seven layers quickly, draft the full prompt with ChatGPT, generate it in OpenArt, then iterate. About fifteen minutes."
 
-### Activity 2 — Generate an AI character
-**Facilitate (you-do):** "Same flow, but a character this time — character, physics, behaviour, camera, environment, style, negatives — into ChatGPT, into OpenArt, then iterate."
-
-### Activity 3 — Scripts & AI voice
-**Facilitate (you-do):** "Find a trending video, transcribe it, adapt the script with ChatGPT — or write a fresh one for your character — set the voice framework, generate in OpenArt with the voice toggled on, and iterate."
-
-### Bonus — Putting it all together
-**Facilitate:** "If you're flying: build the character, drop your product into the image, storyboard it, add voice and script, and generate. It's the whole job in miniature, done in one sitting."
-
 ---
 
 # MODULE 3 — BUILDING AGENTIC WORKFLOWS (with Claude)
@@ -223,8 +214,8 @@
 ### {S5-48} How a coding assistant works — the inner loop
 **Say:** "Quick peek under the hood, because it demystifies everything. The model on its own only *thinks*. What lets it touch the real world is the harness around it — read something, take an action, look at the result, go again. It's the exact loop a developer runs, just sped up."
 
-### {S5} Three live demos
-**Say:** "Now I'll prove it instead of describing it. Same prompt, different tools — and we watch where each one lands. Three demos coming up: influencer research, a Search Console report, and a video-ad pipeline."
+### {S5} Two live demos
+**Say:** "Now I'll prove it instead of describing it. Same prompt, different tools — and we watch where each one lands. Two demos: influencer research, then a Search Console report. You already saw the third one — the Tiket video ad — back in the video session."
 
 ### {S5} Demo 1 — influencer research
 **Say:** "First prompt: 'find premium travel influencers for Indonesia on Instagram and drop them into a Google Sheet.' Watch — *both* tools pull this off. Cowork and Claude-in-Chrome each hand back a live, shareable sheet. So far they look equal. Hold that thought."
@@ -232,17 +223,11 @@
 ### {S5} Demo 2 — Google Search Console
 **Say:** "Same kind of prompt, very different result — this is the one to watch. Cowork hits a wall: no Search Console connector, dead end. Claude Code sails through because it can call the API directly. The lesson is bigger than this demo — the *harness* decides what's even possible."
 
-### {S5} Demo 3 — video ad pipeline
-**Say:** "Last one. Cowork *advises* — it hands you a tidy plan that you still have to go execute. Claude Code *executes* — it does the thing. So the takeaway across all three: pick the harness that can actually reach the tool you need, or you're just generating advice."
-
 ### {S5-53} What is a directory? (why it matters)
 **Say:** "Everything in this session rests on one humble idea, so let's get it straight. A directory is just a folder — that's it. Claude keeps a special 'brain' folder holding your rules, your shortcuts, your workers, its memory. And here's why you should care: you point Claude at the right project folder first, and it automatically reads *that* project's instructions — the right context loads itself, and you stop re-explaining who you are every time."
 
 ### {S5} Connectors (MCP)
 **Say:** "This is how Claude reaches your other tools — in claude.ai you go to Customize, then Connectors. Anthropic maintains them, and it's one click to switch one on."
-
-### {S5} MCP in action
-**Say:** "Watch what a connector buys you. Your prompt quietly triggers a tool call behind the scenes, and you get *live data* back instead of a confident guess — all inside the same Cowork window you already use."
 
 ### {S5} Plugins
 **Say:** "Plugins are how Anthropic bundles up skills, agents, and commands and shares them through a marketplace. Think of it as an app store for the things we're about to build."
@@ -285,9 +270,6 @@
 
 ### {S5} Everything flows into one brain
 **Say:** "Picture all of it pouring into one container — your CLAUDE.md, the project files, the memory file, every skill, every connector's tool list. They all land in the same working memory and share one ceiling. Nothing gets its own private shelf."
-
-### {S5} What counts toward your window
-**Say:** "And it all has a price. Everything Claude *reads* or *writes* costs space — your instructions file, every skill and agent description, the connector tool lists. So budget it like you'd budget a suitcase; you can't pack everything."
 
 ### {S5} The real problem — context rot
 **Say:** "Here's the counter-intuitive bit that catches everyone. Bigger is *not* better. Accuracy actually decays as the window fills up, even when everything technically still fits. You prevent it the same handful of ways: trim the instructions file, break the work into skills, save things to files instead of holding them in your head, run /compact, and reset when it's tired."
