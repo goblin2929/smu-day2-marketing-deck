@@ -114,9 +114,6 @@
 ### DIVIDER — Section 2.5 · AI Video & Content Creation
 **Say:** "You've got the channels and the paid mechanics — now the content that fills them. The format eating all the others is short-form video, so that's where we go. Two things this session: where video is heading, and the skill that actually matters — how to *brief* an AI model so you get the video you pictured instead of the mush it defaults to."
 
-### [25] Why video matters now
-**Say:** "The appetite for short-form keeps climbing, and nowhere more than here in Southeast Asia. It out-engages a static post every time, and for a small business with a thin ad budget it's the cheapest way there is to show the product working and tell your story."
-
 ### [26] Video content SMEs can use
 **Say:** "There are seven kinds of video a small business can actually use, and every one on this slide has a real example you can click — so let's watch one or two rather than list them. There's the straight product demo, the founder telling the brand's story, a customer testimonial in UGC style, a lifestyle piece, a promo, a how-to, and a short bit of narrative. Open one live and let them feel the format." Play one or two.
 
@@ -126,8 +123,8 @@
 ### Before vs after: making a video
 **Say:** "Walk the left column — this is how a video got made for twenty years: references, moodboard, storyboard, animate, shoot, edit. Many people, many weeks. Right column: now it's one workflow you run again and again — you bring the brief and the judgment, and the workflow pulls your references, writes, generates, assembles. The takeaway is the real point: the job moves from *doing the steps* to *directing the workflow* — your taste is the work now. The Claude Code / MCP line at the bottom is for the curious; don't dwell on it."
 
-### [28] Using AI: pros & cons
-**Say:** "Let's be honest about the trade, because it's not free. On the plus side it's fast, cheap, no gear, easy to test. On the minus side it can look generic, it can feel hollow, there's copyright risk — and two that matter more than the rest: making the video guarantees you nothing about the *business* outcome, and AI is superb at *copying* but genuinely weak at *original* ideas. The originality still has to come from you."
+### How to stand out from the 99% — build your library
+**Say:** "Open with the hook: everyone in this room now has the same AI tools, so 99% of AI content looks identical. So how do you stand out? The answer's on screen — build an inspiration library, a swipe file only *you* have built. The grid gave you *what* to make; the library is the proven *how*. The loop: Capture what stops your scroll, Sort it onto the right shelf, Deconstruct why it worked, Reuse it when you create. It ties straight back to the workflow slide — your library is the *input* you feed the workflow, the reason your videos look like you and not slop. Four shelves coming up. Honest note: faster isn't the win — time saved doesn't equal customers won."
 
 ### [29] Real or fake?
 **Say (interactive — ask first):** "Two clips coming up. Don't shout — just decide which one is the AI. (play both, take a show of hands, then reveal: one's real, one is fully generated.) If you honestly couldn't tell, *that's* the headline of this whole session — the bar for 'good enough' video has collapsed, and that cuts both ways."
@@ -147,9 +144,6 @@
 ### The content grid — filled in (insurance)
 **Say:** "Here it is filled for an insurance business. Industry side: claims, sales, savings, car, life, health, retirement, home. Customer side: travel, pets, designer bags, marriage, cars, the gym, kids, first home. Now circle one from each and cross them — five ideas on screen. Sales times pet: 'what my dog taught me about life insurance.' Savings times a bag: 'same money, an LV bag now or your savings in ten years.' Land the closing line: the product alone is boring — reach and engagement come from *connecting* with the customer through content relevant to *their* life."
 
-### How to stand out from the 99% — build your library
-**Say:** "Open with the hook: everyone in this room now has the same AI tools, so 99% of AI content looks identical. So how do you stand out? The answer's on screen — build an inspiration library, a swipe file only *you* have built. The grid gave you *what* to make; the library is the proven *how*. The loop: Capture what stops your scroll, Sort it onto the right shelf, Deconstruct why it worked, Reuse it when you create. It ties straight back to the workflow slide — your library is the *input* you feed the workflow, the reason your videos look like you and not slop. Four shelves coming up. Honest note: faster isn't the win — time saved doesn't equal customers won."
-
 ### The 7 asset libraries (素材庫) — overview
 **Say:** "Here's the producer's full toolkit, left to right in the order you actually make a video — title, hook, script, structure, shot, edit, sound. The teaching point isn't any single shelf; it's that pros keep all seven *stocked*, so production stops being 'create from nothing' and becomes 'pull from shelves.' Each shelf feeds the next — a title earns the click, a hook earns the watch. We'll take each in turn; don't linger here, it's the map."
 
@@ -162,8 +156,8 @@
 ### Library 3 / 7 — Script
 **Say:** "Shelf three — what you actually say, point by point. Proven angles: the emotional one, your industry insight, a quote or stat that earns trust, the story that sells without feeling like an ad, and — don't skip it — the CTA, the ask at the end. The six-beat spine on the example is your default template."
 
-### Library 4 / 7 — Structure
-**Say:** "Shelf four — the shape the script goes into. Note this used to be called 'storyboard'; structure is the right word, because these are *formats*: process breakdown, how-to tutorial, POV, listicle. Pick a format, pour the script in. A listicle like 'three insurance mistakes new parents make' is the easiest one to refill weekly."
+### Library 4 / 7 — Storyboard
+**Say:** "Shelf four — how you stage and sequence the story, the angle you tell it from. Story-selling, where a narrative carries the pitch instead of an ad; process breakdown, the 'how it's made'; POV, filmed from the viewer's or subject's eyes; and sharing or tutorial, where you teach something useful. Pick the angle, then plan the beats before you film — hook shot, context, the reveal, the CTA frame."
 
 ### Library 5 / 7 — Shot & Coverage
 **Say:** "Shelf five — how you point the camera. Three core angles plus screen capture: to-camera, talking straight to the lens; observational, fly-on-the-wall from outside; B-roll, the cutaway footage of hands, product, scenery; and screen recordings. The everyday combo is a to-camera hook cut with B-roll of the product."
@@ -200,6 +194,9 @@
 
 ### [40] Character prompt example
 **Say:** "Here's a character prompt fully worked out — the GRWM creator, specified down to identity, anatomy, wardrobe, consistency rules, behaviour. The reason for all that detail is simple: detail is the only thing that stops a character morphing into a slightly different person frame to frame."
+
+### [28] Using AI: pros & cons
+**Say:** "Let's be honest about the trade, because it's not free. On the plus side it's fast, cheap, no gear, easy to test. On the minus side it can look generic, it can feel hollow, there's copyright risk — and two that matter more than the rest: making the video guarantees you nothing about the *business* outcome, and AI is superb at *copying* but genuinely weak at *original* ideas. The originality still has to come from you."
 
 ### DIVIDER — Lunch
 **Say:** "Come back ready to build — the whole afternoon is hands-on."
