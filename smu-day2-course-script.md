@@ -117,9 +117,6 @@
 ### [26] Video content SMEs can use
 **Say:** "There are seven kinds of video a small business can actually use, and every one on this slide has a real example you can click — so let's watch one or two rather than list them. There's the straight product demo, the founder telling the brand's story, a customer testimonial in UGC style, a lifestyle piece, a promo, a how-to, and a short bit of narrative. Open one live and let them feel the format." Play one or two.
 
-### [27] Using AI for video generation
-**Say:** "A whole new class of tool does this now — type a sentence, get footage; auto-editing; templates. The pay-off is the obvious one: cheaper, faster, and you don't need a film crew or the skills, so you can try ten versions in the time it took to make one. Reach for these on quick promos, ad variants, explainers, anything social."
-
 ### Before vs after: making a video
 **Say:** "Walk the left column — this is how a video got made for twenty years: references, moodboard, storyboard, animate, shoot, edit. Many people, many weeks. Right column: now it's one workflow you run again and again — you bring the brief and the judgment, and the workflow pulls your references, writes, generates, assembles. The takeaway is the real point: the job moves from *doing the steps* to *directing the workflow* — your taste is the work now. The Claude Code / MCP line at the bottom is for the curious; don't dwell on it."
 
@@ -138,20 +135,17 @@
 ### [32] Video → Video
 **Say:** "Third way — video-to-video. You feed it footage you already shot and it restyles or transforms it. Runway's the tool. Best when you want a fresh look or a variation on something real, and the catch is that you're always boxed in by the original clip." (Watch-example link.)
 
+### The 7 asset libraries (素材庫) — overview
+**Say:** "Here's the producer's full toolkit, left to right in the order you actually make a video — title, hook, script, structure, shot, edit, sound. The teaching point isn't any single shelf; it's that pros keep all seven *stocked*, so production stops being 'create from nothing' and becomes 'pull from shelves.' Each shelf feeds the next — a title earns the click, a hook earns the watch. We'll take each in turn; don't linger here, it's the map."
+
 ### The content grid (九宮格) — your two grids
 **Say (interactive):** "Best cure for 'I don't know what to post.' Two grids on screen, both blank. Left is your business — your industry in the centre, eight topics around it. Right is your customer — what they actually care about. The point: you don't start from a blank page, you start from a blank *grid*. Ask the room to shout their industry and a couple of customer interests; we'll fill the insurance version on the next slide."
 
 ### The content grid — filled in (insurance)
 **Say:** "Here it is filled for an insurance business. Industry side: claims, sales, savings, car, life, health, retirement, home. Customer side: travel, pets, designer bags, marriage, cars, the gym, kids, first home. Now circle one from each and cross them — five ideas on screen. Sales times pet: 'what my dog taught me about life insurance.' Savings times a bag: 'same money, an LV bag now or your savings in ten years.' Land the closing line: the product alone is boring — reach and engagement come from *connecting* with the customer through content relevant to *their* life."
 
-### The 7 asset libraries (素材庫) — overview
-**Say:** "Here's the producer's full toolkit, left to right in the order you actually make a video — title, hook, script, structure, shot, edit, sound. The teaching point isn't any single shelf; it's that pros keep all seven *stocked*, so production stops being 'create from nothing' and becomes 'pull from shelves.' Each shelf feeds the next — a title earns the click, a hook earns the watch. We'll take each in turn; don't linger here, it's the map."
-
-### Library 1 / 7 — Title & Topic
-**Say:** "Shelf one, the idea bank — what the video's about and why anyone clicks. Sources: your customers' pain points, the questions they keep asking you, a trend worth jacking, and titles phrased the way people actually search. This is exactly where your content grid pays off — every crossing on that grid is a title for this shelf."
-
-### Library 2 / 7 — Hook
-**Say:** "Shelf two, and the single most important asset you own: the first three seconds. Save opening hooks that stopped *you*, retention hooks that hold attention — 'wait for it,' open loops — pattern interrupts that re-grab a drifting viewer, and visual hooks, text or motion in the very first frame. Read one aloud. Borrow the pattern, not the words."
+### [34] Writing a scroll-stopping hook
+**Say:** "The first two seconds decide whether anyone sees the rest. A strong hook does three things — it's specific, it creates a little tension, and it talks to *one* person, not a crowd. There are about six flavours you can pull from: open with a question, make a contrarian claim, confess something, take a point of view, drop a shocking stat, or open a curiosity gap. The test is simple — a weak hook *describes*; a strong hook makes someone *react*."
 
 ### Library 3 / 7 — Script
 **Say:** "Shelf three — what you actually say, point by point. Proven angles: the emotional one, your industry insight, a quote or stat that earns trust, the story that sells without feeling like an ad, and — don't skip it — the CTA, the ask at the end. The six-beat spine on the example is your default template."
@@ -170,9 +164,6 @@
 
 ### [33] How to generate killer scripts
 **Say:** "Before any visuals, the words. The trick isn't to write from a blank page — it's to find a video that's already winning in your category, transcribe it, take it apart, and have ChatGPT adapt it to you. A good short script runs on six beats and each does exactly one job: you open on a hook to stop the scroll, drop into a relatable moment so they see themselves, hit a shift where something turns, slide the product in softly, pay it off casually, and end on a light call to action. Read the GRWM example one beat at a time so they hear the rhythm."
-
-### [34] Writing a scroll-stopping hook
-**Say:** "The first two seconds decide whether anyone sees the rest. A strong hook does three things — it's specific, it creates a little tension, and it talks to *one* person, not a crowd. There are about six flavours you can pull from: open with a question, make a contrarian claim, confess something, take a point of view, drop a shocking stat, or open a curiosity gap. The test is simple — a weak hook *describes*; a strong hook makes someone *react*."
 
 ### [35] AI script example
 **Say:** "Here's the full GRWM script on screen, and you can see the structure doing its work — hook, relatable, shift, soft product, payoff, all in order. This is exactly the kind of thing you'd hand to an avatar tool or a voice model to perform."
