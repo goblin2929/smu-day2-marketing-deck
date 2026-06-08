@@ -37,18 +37,6 @@
 ### DIVIDER — Module 2 · Channel Marketing (continued)
 **Say (the thesis — let it land):** "Here's the one idea the whole morning hangs on. AI collapses the *cost* of producing marketing. Most people hear that as a cost-saving story — fire the agency, save money. That's the small prize. The real prize is the *topline*: you can now do the volume of marketing that used to need a whole team, which means you can grow, not just save. Hold that thought for every slide after this."
 
-### [02] Before AI
-**Say:** "Picture how marketing used to run. Plan, then campaign, then a long wait to see if it worked — and a human did every single step: pull the data, write the copy, make the image, publish it, read the results. The bottleneck was always the same thing — people and time. And people don't scale." Keep it quick; it's just the setup for the next slide.
-
-### [03] With AI
-**Say:** "Now look what AI takes over — the *doing*. It chews through more data than a person can, drafts the campaign, publishes at scale, and iterates without getting tired. So the bottleneck moves. It's no longer hands and hours; it's your judgement — what's worth making, what's on-brand, where you point the thing. AI does the doing; you decide what's worth doing. That sentence is the spine of the entire day."
-
-### [04] Why does this matter for SMEs?
-**Say:** "Walk it through for a small business. Testing gets faster, so every bet carries less risk. More iterations means you learn quicker, which means you find your real customers sooner. So here's the punchline for the little guy in the room: you can finally compete on *speed* instead of *budget*. You'll never outspend the big brand — but you can out-iterate them."
-
-### [05] AI didn't change *what* good marketing is
-**Say (let it land, then pause):** "Notice what AI did *not* touch. It didn't change what good marketing is — the positioning, the audience, the offer from yesterday all still decide who wins. What it changed is the *speed* you can do it at. Same game, faster loop." Pause, then turn to search.
-
 ---
 
 ## 2.3 — AEO & GEO
