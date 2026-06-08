@@ -150,17 +150,29 @@
 ### How to stand out from the 99% — build your library
 **Say:** "Open with the hook: everyone in this room now has the same AI tools, so 99% of AI content looks identical. So how do you stand out? The answer's on screen — build an inspiration library, a swipe file only *you* have built. The grid gave you *what* to make; the library is the proven *how*. The loop: Capture what stops your scroll, Sort it onto the right shelf, Deconstruct why it worked, Reuse it when you create. It ties straight back to the workflow slide — your library is the *input* you feed the workflow, the reason your videos look like you and not slop. Four shelves coming up. Honest note: faster isn't the win — time saved doesn't equal customers won."
 
-### Hook Library
-**Say:** "Shelf one, the most important two seconds. Save every opening line that made *you* stop, with a note on why. Open this first when you write — never start a hook cold. Read one or two aloud. The point: borrow the *pattern*, not the words."
+### The 7 asset libraries (素材庫) — overview
+**Say:** "Here's the producer's full toolkit, left to right in the order you actually make a video — title, hook, script, structure, shot, edit, sound. The teaching point isn't any single shelf; it's that pros keep all seven *stocked*, so production stops being 'create from nothing' and becomes 'pull from shelves.' Each shelf feeds the next — a title earns the click, a hook earns the watch. We'll take each in turn; don't linger here, it's the map."
 
-### Script / Structure Library
-**Say:** "Shelf two, the highest-leverage one. Find a video winning in your category, transcribe it, break it into beats — you're keeping the structure, not the topic. The six-beat structure on the right is the one we use on the very next slide. Trends change weekly; structures that convert barely move."
+### Library 1 / 7 — Title & Topic
+**Say:** "Shelf one, the idea bank — what the video's about and why anyone clicks. Sources: your customers' pain points, the questions they keep asking you, a trend worth jacking, and titles phrased the way people actually search. This is exactly where your content grid pays off — every crossing on that grid is a title for this shelf."
 
-### Visual / B-roll Library
-**Say:** "Shelf three — the look, not the words. Transitions, text styles, shot types, formats, editing rhythm, grouped by feel. Hand it to an editor or feed it to a tool as a style guide. Say the legal line out loud: capture for *inspiration*, not lift — recreate the idea with your own or licensed footage."
+### Library 2 / 7 — Hook
+**Say:** "Shelf two, and the single most important asset you own: the first three seconds. Save opening hooks that stopped *you*, retention hooks that hold attention — 'wait for it,' open loops — pattern interrupts that re-grab a drifting viewer, and visual hooks, text or motion in the very first frame. Read one aloud. Borrow the pattern, not the words."
 
-### Trends & Sounds Library
-**Say:** "Shelf four — the one with a shelf life. Trending audio, hashtags, formats, by region; refresh weekly because it expires. TikTok Creative Center is the starting point. Riding a sound *early*, while it's still climbing, can earn far more reach than an average post."
+### Library 3 / 7 — Script
+**Say:** "Shelf three — what you actually say, point by point. Proven angles: the emotional one, your industry insight, a quote or stat that earns trust, the story that sells without feeling like an ad, and — don't skip it — the CTA, the ask at the end. The six-beat spine on the example is your default template."
+
+### Library 4 / 7 — Structure
+**Say:** "Shelf four — the shape the script goes into. Note this used to be called 'storyboard'; structure is the right word, because these are *formats*: process breakdown, how-to tutorial, POV, listicle. Pick a format, pour the script in. A listicle like 'three insurance mistakes new parents make' is the easiest one to refill weekly."
+
+### Library 5 / 7 — Shot & Coverage
+**Say:** "Shelf five — how you point the camera. Three core angles plus screen capture: to-camera, talking straight to the lens; observational, fly-on-the-wall from outside; B-roll, the cutaway footage of hands, product, scenery; and screen recordings. The everyday combo is a to-camera hook cut with B-roll of the product."
+
+### Library 6 / 7 — Edit
+**Say:** "Shelf six — the polish that makes raw footage look professional. Your click frame (thumbnail), captions — non-negotiable, most people watch on mute — typography, lower-thirds for names and titles, and pacing, the cut rhythm. Same footage, edited tight versus loose, is the difference between amateur and pro."
+
+### Library 7 / 7 — Sound
+**Say:** "Shelf seven — the audio layer, and it carries half the emotion. Background music for mood, sound effects for punch, trending audio the algorithm is currently boosting, and a clean voiceover track. Riding a trending sound *early*, while it's climbing, ties straight back to your Trends habit from the grid."
 
 ### [33] How to generate killer scripts
 **Say:** "Before any visuals, the words. The trick isn't to write from a blank page — it's to find a video that's already winning in your category, transcribe it, take it apart, and have ChatGPT adapt it to you. A good short script runs on six beats and each does exactly one job: you open on a hook to stop the scroll, drop into a relatable moment so they see themselves, hit a shift where something turns, slide the product in softly, pay it off casually, and end on a light call to action. Read the GRWM example one beat at a time so they hear the rhythm."
