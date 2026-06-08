@@ -109,25 +109,6 @@
 
 ---
 
-## 2.4 — PAID MARKETING
-
-### DIVIDER — Section 2.4 · Paid Marketing
-**Say:** "Organic gets you discovered; paid gets you distributed. Two jobs, don't confuse them — and four questions to answer before you spend a dollar."
-
-### [21] Marketing channels overview
-**Say:** "We spent the morning on getting *found* — that's the SEO-and-GEO column on this map. Now widen the lens, because that's only one channel. Here's where your marketing actually runs: owned email, organic posts in text and image, organic video, paid ads, and the blog. The quiet superpower of AI is that one idea, made once, can show up across every one of these almost instantly. This block we take the paid column — then the next session is the content that feeds all of them: video."
-
-### [22] Paid marketing
-**Say:** "Here's the split that matters. Organic is for *discovery* — top of funnel, building trust on TikTok, Reels, Shorts; hook them in the first two or three seconds, and authenticity beats polish every time. Paid is for *distribution* — you take what's already working and pour fuel on it, retarget, test angles cheaply. What AI changes here is the *speed* of iteration. What it doesn't change is the boring stuff that still wins: good targeting, budget discipline, a clear message."
-
-### [23] Before you run ads: four questions
-**Say (ask first):** "Before anyone spends a dollar, you have to answer four questions — and I'll ask the room. What's the goal? Who's the audience, and are they cold, warm, or hot? What message are we actually testing? And what does success look like? That last one is the killer: if you can't define success up front, you literally cannot measure it, and you're just burning money with a nice dashboard."
-
-### [24] Measurement
-**Say:** "Know which number you're chasing *before* you boost anything. On organic, the honest signals are retention — did they get past the first few seconds — plus saves, shares, and comments; raw view counts will lie to you. On paid, it's the cost letters — cost per click, cost per lead, cost to acquire a customer, and return on ad spend. Pick your one number first, then optimise toward it."
-
----
-
 ## 2.5 — AI VIDEO & CONTENT CREATION
 
 ### DIVIDER — Section 2.5 · AI Video & Content Creation
@@ -141,6 +122,9 @@
 
 ### [27] Using AI for video generation
 **Say:** "A whole new class of tool does this now — type a sentence, get footage; auto-editing; templates. The pay-off is the obvious one: cheaper, faster, and you don't need a film crew or the skills, so you can try ten versions in the time it took to make one. Reach for these on quick promos, ad variants, explainers, anything social."
+
+### Before vs after: making a video
+**Say:** "Walk the left column — this is how a video got made for twenty years: references, moodboard, storyboard, animate, shoot, edit. Many people, many weeks. Right column: now it's one workflow you run again and again — you bring the brief and the judgment, and the workflow pulls your references, writes, generates, assembles. The takeaway is the real point: the job moves from *doing the steps* to *directing the workflow* — your taste is the work now. The Claude Code / MCP line at the bottom is for the curious; don't dwell on it."
 
 ### [28] Using AI: pros & cons
 **Say:** "Let's be honest about the trade, because it's not free. On the plus side it's fast, cheap, no gear, easy to test. On the minus side it can look generic, it can feel hollow, there's copyright risk — and two that matter more than the rest: making the video guarantees you nothing about the *business* outcome, and AI is superb at *copying* but genuinely weak at *original* ideas. The originality still has to come from you."
@@ -156,6 +140,24 @@
 
 ### [32] Video → Video
 **Say:** "Third way — video-to-video. You feed it footage you already shot and it restyles or transforms it. Runway's the tool. Best when you want a fresh look or a variation on something real, and the catch is that you're always boxed in by the original clip." (Watch-example link.)
+
+### The content grid (九宮格)
+**Say (interactive):** "Best cure for 'I don't know what to post.' Two lists. First, your industry — here it's insurance, and the eight squares around it are claims, sales, savings, life, health, retirement, car, home. Second, what your *audience* actually cares about — travel, pets, designer bags, marriage, cars, the gym. Now circle one from each and cross them. Sales times pet — 'what my pet taught me about life insurance.' Savings times a bag — 'same money: an LV bag today versus your savings in insurance, and the gap in ten years.' The product alone is boring; crossed with their life it earns attention. The AI move: hand both lists to ChatGPT and it fills the whole grid of ideas for you. Ask the room for their industry and one audience interest, and cross it live."
+
+### Build your inspiration library (素材庫)
+**Say:** "The grid gives you *what* to make; the library gives you the proven *how*. Pros don't wait for inspiration — they keep a swipe file. The loop: Capture what stops your scroll, Sort it onto the right shelf, Deconstruct why it worked, Reuse it when you create. The punchline ties straight back to the workflow slide — your library is the *input* you feed the workflow, the reason your AI videos look like *you* and not generic slop. Four shelves coming up. And land the honest note: faster isn't the win — time saved doesn't equal customers won."
+
+### Hook Library
+**Say:** "Shelf one, the most important two seconds. Save every opening line that made *you* stop, with a note on why. Open this first when you write — never start a hook cold. Read one or two aloud. The point: borrow the *pattern*, not the words."
+
+### Script / Structure Library
+**Say:** "Shelf two, the highest-leverage one. Find a video winning in your category, transcribe it, break it into beats — you're keeping the structure, not the topic. The six-beat structure on the right is the one we use on the very next slide. Trends change weekly; structures that convert barely move."
+
+### Visual / B-roll Library
+**Say:** "Shelf three — the look, not the words. Transitions, text styles, shot types, formats, editing rhythm, grouped by feel. Hand it to an editor or feed it to a tool as a style guide. Say the legal line out loud: capture for *inspiration*, not lift — recreate the idea with your own or licensed footage."
+
+### Trends & Sounds Library
+**Say:** "Shelf four — the one with a shelf life. Trending audio, hashtags, formats, by region; refresh weekly because it expires. TikTok Creative Center is the starting point. Riding a sound *early*, while it's still climbing, can earn far more reach than an average post."
 
 ### [33] How to generate killer scripts
 **Say:** "Before any visuals, the words. The trick isn't to write from a blank page — it's to find a video that's already winning in your category, transcribe it, take it apart, and have ChatGPT adapt it to you. A good short script runs on six beats and each does exactly one job: you open on a hook to stop the scroll, drop into a relatable moment so they see themselves, hit a shift where something turns, slide the product in softly, pay it off casually, and end on a light call to action. Read the GRWM example one beat at a time so they hear the rhythm."
