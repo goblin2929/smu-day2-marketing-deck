@@ -123,6 +123,12 @@
 ### How to stand out from the 99% — build your library
 **Say:** "Open with the hook: everyone in this room now has the same AI tools, so 99% of AI content looks identical. So how do you stand out? The answer's on screen — build an inspiration library, a swipe file only *you* have built. The grid gave you *what* to make; the library is the proven *how*. The loop: Capture what stops your scroll, Sort it onto the right shelf, Deconstruct why it worked, Reuse it when you create. It ties straight back to the workflow slide — your library is the *input* you feed the workflow, the reason your videos look like you and not slop. Four shelves coming up. Honest note: faster isn't the win — time saved doesn't equal customers won."
 
+### The content grid (九宮格) — your two grids
+**Say (interactive):** "Best cure for 'I don't know what to post.' Two grids on screen, both blank. Left is your business — your industry in the centre, eight topics around it. Right is your customer — what they actually care about. The point: you don't start from a blank page, you start from a blank *grid*. Ask the room to shout their industry and a couple of customer interests; we'll fill the insurance version on the next slide."
+
+### The content grid — filled in (insurance)
+**Say:** "Here it is filled for an insurance business. Industry side: claims, sales, savings, car, life, health, retirement, home. Customer side: travel, pets, designer bags, marriage, cars, the gym, kids, first home. Now circle one from each and cross them — five ideas on screen. Sales times pet: 'what my dog taught me about life insurance.' Savings times a bag: 'same money, an LV bag now or your savings in ten years.' Land the closing line: the product alone is boring — reach and engagement come from *connecting* with the customer through content relevant to *their* life."
+
 ### [29] Real or fake?
 **Say (interactive — ask first):** "Two clips coming up. Don't shout — just decide which one is the AI. (play both, take a show of hands, then reveal: one's real, one is fully generated.) If you honestly couldn't tell, *that's* the headline of this whole session — the bar for 'good enough' video has collapsed, and that cuts both ways."
 
@@ -137,12 +143,6 @@
 
 ### The 7 asset libraries (素材庫) — overview
 **Say:** "Here's the producer's full toolkit, left to right in the order you actually make a video — title, hook, script, structure, shot, edit, sound. The teaching point isn't any single shelf; it's that pros keep all seven *stocked*, so production stops being 'create from nothing' and becomes 'pull from shelves.' Each shelf feeds the next — a title earns the click, a hook earns the watch. We'll take each in turn; don't linger here, it's the map."
-
-### The content grid (九宮格) — your two grids
-**Say (interactive):** "Best cure for 'I don't know what to post.' Two grids on screen, both blank. Left is your business — your industry in the centre, eight topics around it. Right is your customer — what they actually care about. The point: you don't start from a blank page, you start from a blank *grid*. Ask the room to shout their industry and a couple of customer interests; we'll fill the insurance version on the next slide."
-
-### The content grid — filled in (insurance)
-**Say:** "Here it is filled for an insurance business. Industry side: claims, sales, savings, car, life, health, retirement, home. Customer side: travel, pets, designer bags, marriage, cars, the gym, kids, first home. Now circle one from each and cross them — five ideas on screen. Sales times pet: 'what my dog taught me about life insurance.' Savings times a bag: 'same money, an LV bag now or your savings in ten years.' Land the closing line: the product alone is boring — reach and engagement come from *connecting* with the customer through content relevant to *their* life."
 
 ### [34] Writing a scroll-stopping hook
 **Say:** "The first two seconds decide whether anyone sees the rest. A strong hook does three things — it's specific, it creates a little tension, and it talks to *one* person, not a crowd. There are about six flavours you can pull from: open with a question, make a contrarian claim, confess something, take a point of view, drop a shocking stat, or open a curiosity gap. The test is simple — a weak hook *describes*; a strong hook makes someone *react*."
